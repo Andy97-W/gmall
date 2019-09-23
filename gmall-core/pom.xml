@@ -32,7 +32,7 @@
         </dependency>
 
         <dependency>
-            <groupId>com.baomidou</grou pId>
+            <groupId>com.baomidou</groupId>
             <artifactId>mybatis-plus-boot-starter</artifactId>
             <version>${mybatisplus.version}</version>
             <exclusions>
